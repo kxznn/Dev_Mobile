@@ -1,4 +1,4 @@
-# appflutter
+# app_flutter_aula_06
 
 A new Flutter project.
 

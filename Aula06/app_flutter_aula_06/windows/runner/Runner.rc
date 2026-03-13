@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.flutterAula06appta" "\0"
-            VALUE "FileDescription", "appflutter" "\0"
+            VALUE "CompanyName", "com.appaula06tb" "\0"
+            VALUE "FileDescription", "app_flutter_aula_06" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "appflutter" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2026 com.flutterAula06appta. All rights reserved." "\0"
-            VALUE "OriginalFilename", "appflutter.exe" "\0"
-            VALUE "ProductName", "appflutter" "\0"
+            VALUE "InternalName", "app_flutter_aula_06" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.appaula06tb. All rights reserved." "\0"
+            VALUE "OriginalFilename", "app_flutter_aula_06.exe" "\0"
+            VALUE "ProductName", "app_flutter_aula_06" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
